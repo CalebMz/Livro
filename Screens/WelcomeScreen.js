@@ -35,9 +35,10 @@ const styles = StyleSheet.create({
     button: {
         flex: 1,
         justifyContent: 'flex-end',
+        alignSelf: 'center',
         width: '50%',
         height: 100,
-        bottom: 300,
+        bottom: 50,
     }
 })
 
